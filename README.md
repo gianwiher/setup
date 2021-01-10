@@ -1,4 +1,4 @@
-## Basic setup for OsX
+## Basic setup for MacOS
 scripts and files to setup a dev enwironment for macOS. Inspired by [Corey schafer](https://github.com/CoreyMSchafer/dotfiles)
 
 ### Install brew
@@ -26,5 +26,12 @@ Get [Powerlevel10k](https://github.com/romkatv/powerlevel10k) theme
 ```bash
 git clone --depth=1 https://github.com/romkatv/powerlevel10k.git ${ZSH_CUSTOM:-$HOME/.oh-my-zsh/custom}/themes/powerlevel10k
 ```
-### Install important programs using brew
+### Install important programs using 
+```bash
+brew.sh 
+```
+### Setup Sublime with custom settings 
+```bash
+sublime.sh 
+```
 
