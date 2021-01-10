@@ -26,7 +26,9 @@ Get [Powerlevel10k](https://github.com/romkatv/powerlevel10k) theme
 ```bash
 git clone --depth=1 https://github.com/romkatv/powerlevel10k.git ${ZSH_CUSTOM:-$HOME/.oh-my-zsh/custom}/themes/powerlevel10k
 ```
-### Install important programs using 
+Copy `.p10k.zsh` from the `settings` directory into `~/`
+
+### Install important programs with brew
 ```bash
 brew.sh 
 ```
