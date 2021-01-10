@@ -1,11 +1,11 @@
 ## Basic setup for MacOS
-scripts and files to setup a dev enwironment for macOS. Inspired by [Corey schafer](https://github.com/CoreyMSchafer/dotfiles)
+Scripts and files to setup a dev enwironment for macOS. Inspired by [Corey Schafer](https://github.com/CoreyMSchafer/dotfiles)
 
 ### Install brew
 ```bash
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 ```
-### Install iterm2
+### Install iTerm2
 ```bash
 brew install --cask iterm2
 ```
@@ -28,7 +28,7 @@ git clone --depth=1 https://github.com/romkatv/powerlevel10k.git ${ZSH_CUSTOM:-$
 ```
 Copy `.p10k.zsh` from the `settings` directory into `~/`
 
-### Install important programs with brew
+### Install important applications with brew
 ```bash
 brew.sh 
 ```
