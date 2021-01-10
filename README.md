@@ -1,5 +1,5 @@
 ## Basic setup for MacOS
-Scripts and files to setup a dev enwironment for macOS. Inspired by [Corey Schafer](https://github.com/CoreyMSchafer/dotfiles)
+Scripts and files to setup a dev environment for MacOS. Inspired by [Corey Schafer](https://github.com/CoreyMSchafer/dotfiles)
 
 ### Install brew
 ```bash
